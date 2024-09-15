@@ -1,19 +1,29 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
-
 body {
-    font-family: 'Inter', sans-serif;
-    background: #1e1e30;
-    color: #fff5dd;
+    font-family: serif;
+    color: #222;
     margin: 50px 150px;
-    max-width: 850px;
+    max-width: 750px;
 }
 
 h1 {
-    font-size: 4rem;
+    font-size: 3.5rem;
 }
 
 p {
-    font-size: 1.2rem;
-    font-weight: 300;
+    font-size: 1.1rem;
     line-height: 1.3;
+}
+
+.cover {
+    max-width: 1600px;
+    max-height: 840px;
+}
+
+.cover img {
+    width: 100%;
+    height: 100%;
+}
+
+img {
+    max-width: 100%;
 }

@@ -6,10 +6,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title></title>
     <link href="/style.css" rel="stylesheet">
+    <link href="https://unpkg.com/prismjs@1.29.0/themes/prism-tomorrow.min.css" rel="stylesheet" />
 </head>
 
 <body>
     <h1>{{ title | default: "Overthinking Development" }}</h1>
+
+    {% if cover_url %}
+    <div class="cover">
+        <img src="{{ cover_url }}" alt="Post cover">
+    </div>
+    {% endif %}
+
     {{ content }}
 </body>
 
