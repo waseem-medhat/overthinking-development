@@ -1,12 +1,12 @@
-+++
-title = 'Article: 3 Tribes of Programming'
-date = 2024-02-08T00:13:10+02:00
-draft = false
-tags = ['Coding', 'Learning']
-categories = ['Blog']
-series = ['Content Reviews']
-images = ['https://i.imgur.com/vrZNFIh.png']
-+++
+---
+title: 'Article: 3 Tribes of Programming'
+date: 2024-02-08T00:13:10+02:00
+#draft = false
+#tags = ['Coding', 'Learning']
+#categories = ['Blog']
+#series = ['Content Reviews']
+cover_url: 'https://i.imgur.com/vrZNFIh.png'
+---
 
 This is a review of an [article classifying programmers into 3
 archetypes](https://josephg.com/blog/3-tribes/) by Joseph Gentle. It is one of

@@ -1,12 +1,11 @@
-+++
-title = 'React Rant (+ Should I Be a Backend Dev?)'
-date = 2023-09-17T08:00:00-00:00
-draft = false
-categories = ['Blog']
-series = ['Overthinking Development']
-+++
-
-![cover](https://i.imgur.com/QAk0myx.png)
+---
+title: 'React Rant (+ Should I Be a Backend Dev?)'
+date: 2023-09-17T08:00:00-00:00
+#draft = false
+#categories = ['Blog']
+#series = ['Overthinking Development']
+cover_url: https://i.imgur.com/QAk0myx.png
+---
 
 I've been writing frontend code for a long while, but most of it was relatively shallow in the grand scheme of things - mostly static sites. Only very recently, I got to develop something that qualifies as a SPA with React (using Vite). I used TailwindCSS and DaisyUI for the UI. The app logic included client-side routing with React Router, interacting with backend APIs using Fetch, handling JWTs and state management using the Context API.
 

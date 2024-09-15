@@ -1,11 +1,10 @@
-+++
-title = 'Two Months of Clojure'
-date = 2023-09-19T00:00:00-00:00
-draft = false
-categories = ['Blog']
-+++
-
-![cover](https://i.imgur.com/YghZkHs.png)
+---
+title: 'Two Months of Clojure'
+date: 2023-09-19T00:00:00-00:00
+#draft = false
+#categories = ['Blog']
+cover_url: https://i.imgur.com/YghZkHs.png
+---
 
 At the time this article was published, two months had passed since I started learning Clojure. I read most of [Clojure for the Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true/), solved a lot of problems on [Exercism](https://exercism.org/tracks/clojure) and [4clojure](http://4clojure.oxal.org/), and built a little SPA and a tiny web server from libraries. It has been a fun journey so far, and I'll recap some general thoughts about it here.
 

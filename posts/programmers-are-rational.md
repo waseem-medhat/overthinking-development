@@ -1,11 +1,10 @@
-+++
-title = 'Programmers Are Rational — or Are They?'
-date = 2023-08-10T00:00:00-00:00
-draft = false
-categories = ['Blog']
-+++
-
-![cover](https://i.imgur.com/dcigENw.jpg)
+---
+title: 'Programmers Are Rational — or Are They?'
+date: 2023-08-10T00:00:00-00:00
+#draft = false
+#categories = ['Blog']
+cover_url: https://i.imgur.com/dcigENw.jpg
+---
 
 Computers are mindless. We give them precise orders to follow using code. Our studying of programming is full of logic and possibly even math and science for some people. There are technical and business goals and constraints that inform our decision-making and problem-solving. So, all of this means that we as programmers are rational beings and capable of making the most calculated of decisions, right?
 

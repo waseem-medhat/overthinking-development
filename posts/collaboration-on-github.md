@@ -1,11 +1,10 @@
-+++
-title = 'Collaboration on GitHub: a Practical Intro'
-date = 2023-08-19T00:00:00-00:00
-draft = false
-Categories = ["Tutorials"]
-+++
-
-![cover](https://i.imgur.com/OBZtHgb.png)
+---
+title: 'Collaboration on GitHub: a Practical Intro'
+date: 2023-08-19T00:00:00-00:00
+#draft = false
+#Categories = ["Tutorials"]
+cover_url: https://i.imgur.com/OBZtHgb.png
+---
 
 Open-source software (OSS) is fascinating, right? People from different places all over the world can work on a certain code repository and improve it piece by piece to make great things happen. The Linux kernel (that powers servers, Android phones, and some desktop computers) is an open-source project. Most of what runs the web on frontends and backends are open-source libraries written in JavaScript, Python, and other languages.
 

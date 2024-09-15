@@ -1,7 +1,7 @@
 ---
 title: 'Jack of All Trades'
 cover_url: 'https://i.imgur.com/PyY5F7f.png' 
-#date = 2023-08-31T00:00:00-00:00
+date: 2023-08-31T00:00:00-00:00
 #draft = false
 #categories = ['Blog']
 #series = ['Overthinking Development']

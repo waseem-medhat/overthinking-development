@@ -4,7 +4,6 @@ date: 2020-09-27T12:05:48+02:00
 Description: "Talking about the Lisp syntax and its advantages."
 Tags: ["Coding"]
 Categories: ["Blog"]
-ffDisableComments: false
 ---
 
 As I go through the course

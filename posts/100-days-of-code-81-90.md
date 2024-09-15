@@ -1,12 +1,12 @@
-+++
-title = '100 Days of Code: 81-90'
-date = 2023-10-20T02:29:03+03:00
-draft = false
-categories = ['Blog']
-series = ['100 Days of Code']
-tags = ['Learning', 'Backend', 'Go']
-images = ['https://i.imgur.com/LojEbox.png']
-+++
+---
+title: '100 Days of Code: 81-90'
+date: 2023-10-20T02:29:03+03:00
+#draft = false
+#categories = ['Blog']
+#series = ['100 Days of Code']
+#tags = ['Learning', 'Backend', 'Go']
+cover_url: 'https://i.imgur.com/LojEbox.png'
+---
 
 ## Summary
 

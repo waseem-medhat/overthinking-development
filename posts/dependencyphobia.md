@@ -1,12 +1,11 @@
-+++
-title = 'Dependencyphobia'
-date = 2023-08-04T00:00:00-00:00
-draft = false
-categories = ['Blog']
-series = ['Overthinking Development']
-+++
-
-![cover](https://cdn.hashnode.com/res/hashnode/image/upload/v1691069641728/e453eb12-ef56-4e24-b589-ba005f9f7c04.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)
+---
+title: 'Dependencyphobia'
+date: 2023-08-04T00:00:00-00:00
+#draft = false
+#categories = ['Blog']
+#series = ['Overthinking Development']
+cover_url: https://cdn.hashnode.com/res/hashnode/image/upload/v1691069641728/e453eb12-ef56-4e24-b589-ba005f9f7c04.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp
+---
 
 In case the title is not obvious, dependencies drive me crazy! They do speed up development in many cases, but they introduce a lot of complications in the process. So, in this overthinking article, I will rant about my fear of dependencies. I do use them, of course, as we all do. But I still avoid them whenever I can, and you'll see why. There will be some practical advice at the end.
 

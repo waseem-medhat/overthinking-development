@@ -1,12 +1,12 @@
-+++
-title = 'Focus (or Lack Thereof)'
-date = 2023-10-18T17:41:19+03:00
-draft = false
-series = ['Overthinking Development']
-categories = ['Blog']
-tags = ['Learning', 'Clojure', 'Go', 'JavaScript', 'R']
-images = ['https://i.imgur.com/qYNiCBa.jpg']
-+++
+---
+title: 'Focus (or Lack Thereof)'
+date: 2023-10-18T17:41:19+03:00
+#draft = false
+#series = ['Overthinking Development']
+#categories = ['Blog']
+#tags = ['Learning', 'Clojure', 'Go', 'JavaScript', 'R']
+cover_url: 'https://i.imgur.com/qYNiCBa.jpg'
+---
 
 I find myself giving in to distractions from time to time when it comes to
 technology choices and learning. It's some kind of FOMO - if you will. At this

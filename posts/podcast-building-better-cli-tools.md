@@ -1,12 +1,12 @@
-+++
-title = 'Podcast: Building Better CLI Tools with ThePrimeagen'
-date = 2023-11-11T22:11:04+02:00
-draft = false
-tags = ['Backend', 'JavaScript', 'Go']
-categories = ['Blog']
-series = ['Content Reviews']
-images = ['https://i.imgur.com/lrMggUi.png']
-+++
+---
+title: 'Podcast: Building Better CLI Tools with ThePrimeagen'
+date: 2023-11-11T22:11:04+02:00
+#draft = false
+#tags = ['Backend', 'JavaScript', 'Go']
+#categories = ['Blog']
+#series = ['Content Reviews']
+cover_url: 'https://i.imgur.com/lrMggUi.png'
+---
 
 Backend Banter has been one of my favorite podcasts lately, and ThePrimeagen has been one of my favorite YouTubers lately. So, what's a better way to start a series of content reviews than reviewing the [*Backend Banter episode with ThePrimeagen*](https://www.youtube.com/watch?v=ae1PM_jpNoA)?
 

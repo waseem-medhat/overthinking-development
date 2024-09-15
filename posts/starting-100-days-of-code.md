@@ -1,13 +1,12 @@
-+++
-title = 'Starting 100 Days of Code'
-date = 2023-07-22T00:00:00-00:00
-draft = false
-categories = ['Blog']
-series = ['100 Days of Code']
-tags = ['Learning', 'Clojure', 'Functional Programming']
-+++
-
-![cover](https://cdn.hashnode.com/res/hashnode/image/upload/v1689979259371/f22af876-e806-47af-abdb-a00babb23468.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)
+---
+title: 'Starting 100 Days of Code'
+date: 2023-07-22T00:00:00-00:00
+#draft = false
+#categories = ['Blog']
+#series = ['100 Days of Code']
+#tags = ['Learning', 'Clojure', 'Functional Programming']
+cover_url: https://cdn.hashnode.com/res/hashnode/image/upload/v1689979259371/f22af876-e806-47af-abdb-a00babb23468.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp
+---
 
 As I try to get a bit creative and have fun with tech, I decided to start a 100 Days of Code challenge to jumpstart this solo journey. So, I wrote this article to publicly plan and document this challenge. Right now, I am thinking of doing (at least) two things as part of that challenge:
 

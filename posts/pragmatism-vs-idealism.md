@@ -1,12 +1,11 @@
-+++
-title = 'Pragmatism vs Idealism'
-date = 2023-07-23T00:00:00-00:00
-draft = false
-categories = ['Blog']
-series = ['Overthinking Development']
-+++
-
-![cover](https://cdn.hashnode.com/res/hashnode/image/upload/v1690047134933/21588ca2-086d-465b-b10e-179c0a87fd68.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)
+---
+title: 'Pragmatism vs Idealism'
+date: 2023-07-23T00:00:00-00:00
+#draft = false
+#categories = ['Blog']
+#series = ['Overthinking Development']
+cover_url: https://cdn.hashnode.com/res/hashnode/image/upload/v1690047134933/21588ca2-086d-465b-b10e-179c0a87fd68.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp
+---
 
 I thought of the title of this article, then it gave me huge [Fitter Happier](https://www.youtube.com/watch?v=O4SzvsMFaek) vibes, at which point the cover had to happen ([source](https://www.reddit.com/r/radiohead/comments/6l2vfn/ok_computer_cover_art_i_made/)). Anyway...
 

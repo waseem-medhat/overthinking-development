@@ -1,13 +1,10 @@
-+++
-title = '100 Days of Code: 1-10'
-date = 2023-07-31T00:00:00-00:00
-draft = false
-categories = ['Blog']
-series = ['100 Days of Code']
-tags = ['Learning', 'Clojure', 'Functional Programming']
-+++
-
-![cover](https://imgur.com/LxZkelq.png)
+---
+title: '100 Days of Code: 1-10'
+date: 2023-07-31T00:00:00-00:00
+series: '100 Days of Code'
+tags: Blog
+cover_url: https://imgur.com/LxZkelq.png
+---
 
 ## Summary
 

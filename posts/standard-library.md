@@ -1,12 +1,11 @@
-+++
-title = 'Standard Library'
-date = 2023-09-07T00:00:00-00:00
-draft = false
-categories = ['Blog']
-series = ['Clojure vs JavaScript']
-+++
-
-![cover](https://i.imgur.com/nhBxOOc.png)
+---
+title: 'Standard Library'
+date: 2023-09-07T00:00:00-00:00
+#draft = false
+#categories = ['Blog']
+#series = ['Clojure vs JavaScript']
+cover_url: https://i.imgur.com/nhBxOOc.png
+---
 
 In this article, I will explore what I learned in Clojure's standard library in comparison to JavaScript's. Without trying to get the most precise definition of "standard library," for the sake of this discussion, I mean things that you can do with the base distribution of the language. This article in particular will discuss basic stuff that should be applicable regardless of the environment or runtime. What I say about Clojure applies to ClojureScript, and what I say about JS applies to the browser and Node.
 

@@ -1,11 +1,10 @@
-+++
-title = '3 Challenges I Faced When Learning to Code'
-date = 2023-07-26T00:00:00-00:00
-draft = false
-categories = ['Blog']
-+++
-
-![cover](https://cdn.hashnode.com/res/hashnode/image/upload/v1690299234126/ad4df73c-9926-4bb7-8778-e812e4cf3e70.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)
+---
+title: '3 Challenges I Faced When Learning to Code'
+date: 2023-07-26T00:00:00-00:00
+#draft = false
+#categories = ['Blog']
+cover_url: https://cdn.hashnode.com/res/hashnode/image/upload/v1690299234126/ad4df73c-9926-4bb7-8778-e812e4cf3e70.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp
+---
 
 This article originates from a discussion that happened on the [Learn Build Teach](https://www.learnbuildteach.com/) community on Discord. I wanted to share it here in a more detailed (and slightly more formatted) way. These challenges came up in my own journey and may or may not be the same for others. Also, I did not list them in any particular order.
 

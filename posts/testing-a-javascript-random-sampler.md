@@ -1,12 +1,10 @@
-+++
-title = 'Testing a JavaScript "Random Sampler"'
-date = 2023-08-22T08:00:00-07:00
-draft = false
-categories = ['Blog']
-+++
-
-
-![cover](https://cdn.hashnode.com/res/hashnode/image/upload/v1692734157035/7b75c2c4-e8f8-4d85-99ed-276caac7bca3.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)
+---
+title: 'Testing a JavaScript "Random Sampler"'
+date: 2023-08-22T08:00:00-07:00
+#draft = false
+#categories = ['Blog']
+cover_url: https://cdn.hashnode.com/res/hashnode/image/upload/v1692734157035/7b75c2c4-e8f8-4d85-99ed-276caac7bca3.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp
+---
 
 I will wear my statistician hat as I scrutinize this JS one-liner:
 

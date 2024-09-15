@@ -1,12 +1,11 @@
-+++
-title = 'Why I Like Functional Programming'
-date = 2023-09-10T00:00:00-00:00
-draft = false
-categories = ['Blog']
-series = ['Overthinking Development']
-+++
-
-![cover](https://i.imgur.com/UBKVaYj.png)
+---
+title: 'Why I Like Functional Programming'
+date: 2023-09-10T00:00:00-00:00
+#draft = false
+#categories = ['Blog']
+#series = ['Overthinking Development']
+cover_url: https://i.imgur.com/UBKVaYj.png
+---
 
 I've been gravitating towards functional programming for years, and the basic functional features in languages like JavaScript or R don't feel enough for me. I always wanted to go deeper into that route, and (at the time of writing this) I am trying to learn Clojure to satisfy that curiosity.
 

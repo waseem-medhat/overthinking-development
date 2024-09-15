@@ -1,12 +1,11 @@
-+++
-title = 'Functional Programming'
-date = 2023-08-16T00:00:00-00:00
-draft = false
-categories = ['Blog']
-series = ['Clojure vs JavaScript']
-+++
-
-![cover](https://cdn.hashnode.com/res/hashnode/image/upload/v1691853775339/3b697a52-9efc-400d-8487-71562a9b588f.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)
+---
+title: 'Functional Programming'
+date: 2023-08-16T00:00:00-00:00
+#draft = false
+#categories = ['Blog']
+#series = ['Clojure vs JavaScript']
+cover_url: https://cdn.hashnode.com/res/hashnode/image/upload/v1691853775339/3b697a52-9efc-400d-8487-71562a9b588f.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp
+---
 
 After I [discussed the uniqueness of Clojure being a Lisp](/posts/clojure-as-a-lisp.html), this article will go into the other obvious difference between Clojure and JavaScript, which is that Clojure is a more functional language than JS. I am saying "more functional" because I don't think of it as a binary classification. Functional programming can be done in both languages, but Clojure supports it to a greater extent.
 

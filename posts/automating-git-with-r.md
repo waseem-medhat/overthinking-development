@@ -1,10 +1,10 @@
 ---
 title: "Automating Git With R"
 date: 2020-09-21T17:38:03+02:00
-Description: "Sharing an R script that I wrote to update my website's Git repo."
-Tags: ["R", "Coding"]
-Categories: ["Blog"]
-DisableComments: false
+#Description: "Sharing an R script that I wrote to update my website's Git repo."
+#Tags: ["R", "Coding"]
+#Categories: ["Blog"]
+#DisableComments: false
 ---
 
 Just like the

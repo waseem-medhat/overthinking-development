@@ -1,12 +1,12 @@
-+++
-title = 'Developer Philosophies'
-date = 2023-09-29T19:37:57+03:00
-draft = false
-categories = ['Blog']
-tags = ['Clojure', 'JavaScript']
-series = ['Clojure vs JavaScript']
-images = ['https://i.imgur.com/yiL2kLZ.png']
-+++
+---
+title: 'Developer Philosophies'
+date: 2023-09-29T19:37:57+03:00
+#draft = false
+#categories = ['Blog']
+#tags = ['Clojure', 'JavaScript']
+#series = ['Clojure vs JavaScript']
+cover_url: 'https://i.imgur.com/yiL2kLZ.png'
+---
 
 All previous articles in this series discussed very basic language differences between Clojure and JavaScript based on my learning so far. I will switch to a different set of topics in this article, discussing some philosophies adopted by each developer community. Although each developer is always free to form their own opinions, what I discuss here is my observations of what is commonly embraced or encouraged by most developers in each community.
 

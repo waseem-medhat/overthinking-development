@@ -1,11 +1,10 @@
-+++
-title = "TypeScript: a Beginner's Perspective"
-date = 2023-08-25T00:00:00-00:00
-draft = false
-categories = ['Blog']
-+++
-
-![cover](https://cdn.hashnode.com/res/hashnode/image/upload/v1692954785301/fd5257fb-435a-4561-b1d1-a614b2530635.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)
+---
+title: "TypeScript: a Beginner's Perspective"
+date: 2023-08-25T00:00:00-00:00
+#draft = false
+#categories = ['Blog']
+cover_url: https://cdn.hashnode.com/res/hashnode/image/upload/v1692954785301/fd5257fb-435a-4561-b1d1-a614b2530635.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp
+---
 
 I've been writing JavaScript for quite some time now, but most of it was powering static sites. I started working on actual frontend apps with state management, routes, auth, and API calls very recently. Using JS on its own became increasingly harder for me even within the constraints of a framework. The combination of the frontend having so many moving parts and JS being overly flexible is dangerous. It allows me to do too many things that can break when running on the browser.
 

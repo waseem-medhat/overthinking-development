@@ -1,13 +1,12 @@
-+++
-title = '100 Days of Code: 21-30'
-date = 2023-08-20T00:00:00-00:00
-draft = false
-categories = ['Blog']
-series = ['100 Days of Code']
-tags = ['Learning', 'Clojure', 'Functional Programming']
-+++
-
-![cover](https://i.imgur.com/kAI8efp.png)
+---
+title: '100 Days of Code: 21-30'
+date: 2023-08-20T00:00:00-00:00
+#draft = false
+#categories = ['Blog']
+#series = ['100 Days of Code']
+#tags = ['Learning', 'Clojure', 'Functional Programming']
+cover_url: https://i.imgur.com/kAI8efp.png
+---
 
 ## First Month Reflection
 

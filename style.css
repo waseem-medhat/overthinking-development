@@ -27,3 +27,14 @@ p {
 img {
     max-width: 100%;
 }
+
+.listing {
+    padding: 0;
+}
+
+.listing li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 12px;
+}

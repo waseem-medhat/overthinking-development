@@ -1,10 +1,10 @@
 ---
 title: 'Data Visualization as a Slide Deck'
 date: 2020-11-06T00:10:38+02:00
-Description: 'Presenting a data visualization project in the form of a slide deck.'
-Tags: ['Data Visualization']
-Categories: ['Projects']
-DisableComments: false
+#Description: 'Presenting a data visualization project in the form of a slide deck.'
+#Tags: ['Data Visualization']
+#Categories: ['Projects']
+#DisableComments: false
 ---
 
 This project is an example of multiple data visualizations telling a story

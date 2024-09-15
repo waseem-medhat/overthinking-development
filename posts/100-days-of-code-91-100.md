@@ -1,12 +1,12 @@
-+++
-title = '100 Days of Code: 91-100 (+ Reflection)'
-date = 2023-10-30T08:54:06+02:00
-draft = false
-categories = ['Blog']
-series = ['100 Days of Code']
-tags = ['Learning', 'Backend', 'Go', 'HTMX']
-images = ['https://i.imgur.com/kdOC1bx.png']
-+++
+---
+title: '100 Days of Code: 91-100 (+ Reflection)'
+date: 2023-10-30T08:54:06+02:00
+#draft = false
+#categories = ['Blog']
+#series = ['100 Days of Code']
+#tags = ['Learning', 'Backend', 'Go', 'HTMX']
+cover_url: 'https://i.imgur.com/kdOC1bx.png'
+---
 
 ## Reflection on the Whole Journey
 

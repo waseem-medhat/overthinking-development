@@ -1,12 +1,12 @@
-+++
-title = 'Video: How To Get Ahead of 99% Of Developers RIGHT NOW'
-date = 2024-01-26T19:45:33+02:00
-draft = false
-tags = ['Learning', 'Jobs']
-categories = ['Blog']
-series = ['Content Reviews']
-images = ['https://i.imgur.com/hEAp4HL.png']
-+++
+---
+title: 'Video: How To Get Ahead of 99% Of Developers RIGHT NOW'
+date: 2024-01-26T19:45:33+02:00
+#draft = false
+#tags = ['Learning', 'Jobs']
+#categories = ['Blog']
+#series = ['Content Reviews']
+cover_url: 'https://i.imgur.com/hEAp4HL.png'
+---
 
 One of the goodies I recently found on YouTube was this video of [Melkey discussing another video by Web Dev Cody](https://www.youtube.com/watch?v=pfkssO8JT8E). As the title says, it's about how to get ahead of 99% of developers and, personally, I don't think that number is a hyperbole. Given the huge amount of people getting into coding, being smart about how to learn and how to gain experience might as well put you in the 1% that know what they're doing.
 
